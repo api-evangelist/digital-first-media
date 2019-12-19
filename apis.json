@@ -1,0 +1,48 @@
+{
+    "name": "Digital First Media",
+    "description": "As our name implies, Digital First Media is out to transform the local news business.     We are a management company overseeing more than 800 multi-platform local news products across 18 states, making us the second-largest newspaper company in the U....",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2648-digital-first-media.jpg",
+    "tags": [
+        "agencies",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/digital-first-media\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Digital First Media",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2648-digital-first-media.jpg",
+            "humanURL": "http:\/\/www.digitalfirstmedia.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/digital-first-media-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.digitalfirstmedia.com\/feed\/rss\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/digital-first-media"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/digitalfirst"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.digitalfirstmedia.com\/"
+        }
+    ]
+}
